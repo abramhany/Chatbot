@@ -15,7 +15,7 @@ The chatbot is trained on custom intents data and can respond intelligently to u
 ---
 
 ## 🗂 Project Structure
-
+```bash
 chatbot-project/
 │
 ├── app/
@@ -39,3 +39,4 @@ chatbot-project/
 ├── Procfile                   # For deployment 
 ├── requirements.txt
 └── README.md
+```
